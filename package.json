@@ -2,7 +2,7 @@
   "name": "codemap-uat",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chiranjeebnayak.github.io/ci-cd-testing/",
+  "homepage": "https://codemap-uat.github.io/CodemapUAT/ci-cd-testing/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
